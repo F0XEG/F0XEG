@@ -31,7 +31,7 @@
 
 ---
 
-Свяжитесь со мной:|✉️morozov.nikitosss.2003@gmail.com|📱 +7(937)210 88-62|💬http://t.me/@Foxeggg|
+Свяжитесь со мной:✉️morozov.nikitosss.2003@gmail.com|📱 +7(937)210 88-62|💬http://t.me/@Foxeggg
 
 ---
 
