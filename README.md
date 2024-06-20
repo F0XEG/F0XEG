@@ -30,6 +30,7 @@
   <li>JavaScript</li>
   <li>Jira service management</li>
 </ul>
+
 <style>
 .border {
 list-style: none;
