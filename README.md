@@ -1,40 +1,17 @@
 <H1>Привет, меня зовут Никита!</H1>
 <p>👤Мне 21 год</p>
-<h2 align= "left">📚Языки и инструменты:</h2>
-<ul class="border">
-  <li>Блендер</li>
-  <li>Figma</li>
-  <li>css</li>
-  <li>Html</li>
-  <li>Grafana</li>
-  <li>Kibana</li>
-  <li>kubernetes</li>
-  <li>OpenShift</li>
-  <li>Linux</li>
-  <li>Oracle</li>
-  <li>PostgreSQL</li>
-  <li>Python</li>
-  <li>TeamCity</li>
-  <li>visualstudio</li>
-  <li>Atlassian Confluence</li>
-  <li>Service managemen</li>
-  <li>Notepad ++</li>
-  <li>Sublime Text</li>
-  <li>Docker</li>
-  <li>Astra Linux</li>
-  <li>Ubuntu</li>
-  <li>Hyper-V</li>
-  <li>Virtual-Box</li>
-  <li>Mac OS</li>
-  <li>JavaScript</li>
-  <li>Jira service management</li>
-</ul>
+</h2>📚Языки и инструменты:</h2>
 
-| Web-design    | Dev-Ops            | compilers   | OS Linux   |
-| ------------- |:------------------:| :----------:|-----------:|
-| Блендер       | Kibana	     | visualstudio| Linux      |
-| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux|
-| Figma		| OpenShift          | Sublime	   | Ubuntu	|
+| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         |
+| ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|
+| Блендер       | Kibana	     | visualstudio| Linux      | Oracle    | Hyper-V	 | Atlassian Confluence  |
+| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     |
+| Figma		| OpenShift          | Sublime	   | Ubuntu	| 	    | 		 | jira service managemen|
+| Python	| Docker             | 		   | 		| 	    | 		 | 			 |
+| 		| TeamCity           | 		   | 		| 	    | 		 | 			 |
+| 		| Grafana            | 		   | 		| 	    | 		 | 			 |
+
+
 		
 ---
 
