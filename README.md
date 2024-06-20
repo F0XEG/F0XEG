@@ -11,7 +11,6 @@
   <li>kubernetes</li>
   <li>OpenShift</li>
   <li>Linux</li>
-  <li>Windows</li>
   <li>Oracle</li>
   <li>PostgreSQL</li>
   <li>Python</li>
@@ -31,11 +30,11 @@
   <li>Jira service management</li>
 </ul>
 
-| Web-design    | Dev-Ops            | compilers   |
-| ------------- |:------------------:| -----------:|
-| Блендер       | Kibana	     |visualstudio |
-| Html/сcss/js  | kubernetes	     |Notepad ++   |
-| Figma		| OpenShift          |Sublime	   |
+| Web-design    | Dev-Ops            | compilers   | OS Linux   |
+| ------------- |:------------------:| :----------:|-----------:|
+| Блендер       | Kibana	     | visualstudio| Linux      |
+| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux|
+| Figma		| OpenShift          | Sublime	   | Ubuntu	|
 		
 ---
 
