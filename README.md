@@ -7,6 +7,87 @@
 	  <link href='http://fonts.googleapis.com/css?family=Exo+2:400,100&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
+		 <style type="text/css">
+
+      /* ---------- style start ----------- */
+
+      body{
+        font-family: 'Exo 2', sans-serif;
+      }
+
+      ol {
+        counter-reset:myCounter;
+        margin-left:0;
+        padding-left:5px;
+        color: rgb(100,100,100);
+      }
+
+      li {
+        position: relative;
+        padding-left: 3em;
+        margin: 0.45em 0;
+        list-style: none;
+        line-height: 1.8em;
+        cursor: pointer;
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+      }
+
+      li:hover {
+        color: rgb(0,0,0);
+      }
+
+      li:before {
+        content:counter(myCounter);
+        counter-increment:myCounter;
+        position:absolute;
+        top:0;
+        left:0;
+        width: 1.8em;
+        height: 1.8em;
+        line-height: 1.8em;
+        padding:0px;
+        color:#fff;
+        background:#2980b9;
+        font-weight:bold;
+        text-align:center;
+        border-radius: .9em;
+        box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.3);
+        z-index: 1;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+      }
+
+      li:hover:before {
+        background-color: #2ecc71;
+      }
+
+      li li:before{
+        background-color: #3498db;
+      }
+
+      li:after {
+        position: absolute;
+        top: 2.1em;
+        left: 0.9em;
+        width: 2px;
+        height: calc(100% - 2em);
+        content: '';
+        background-color: rgb(203, 203, 203);
+        z-index: 0;
+      }
+
+      li:hover:after {
+        background-color: #2ecc71;
+      }
+
+      li li {
+        font-size: 0.8em;
+      }
+
+      /* ---------- style end ----------- */
+
+    </style>
 <H1>Привет, меня зовут Никита!</H1>
 <p>👤Мне 21 год</p>
 <h2 align= "left">📚Языки и инструменты:</h2>
@@ -39,38 +120,7 @@
   <li>JavaScript</li>
   <li>Jira service management</li>
 </ul>
-
-<style>
-.border {
-list-style: none;
-padding: 0;
-}
-.border li {
-font-family: "Trebuchet MS", "Lucida Sans";
-padding: 7px 20px;
-margin-bottom: 10px;
-border-radius: 5px;
-border-left: 10px solid #f05d22; 
-box-shadow: 2px -2px 5px 0 rgba(0,0,0,.1),
-     -2px -2px 5px 0 rgba(0,0,0,.1),
-    2px 2px 5px 0 rgba(0,0,0,.1),
-    -2px 2px 5px 0 rgba(0,0,0,.1);
-font-size: 20px;
-letter-spacing: 2px;
-transition: 0.3s all linear;
-}
-.border li:nth-child(2){border-color: #8bc63e;}
-.border li:nth-child(3){border-color: #fcba30;}
-.border li:nth-child(4){border-color: #1ccfc9;}
-.border li:nth-child(5){border-color: #493224;}
-.border li:hover {border-left: 10px solid transparent;}
-.border li:nth-child(1):hover {border-right: 10px solid #f05d22;}
-.border li:nth-child(2):hover {border-right: 10px solid #8bc63e;}
-.border li:nth-child(3):hover {border-right: 10px solid #fcba30;}
-.border li:nth-child(4):hover {border-right: 10px solid #1ccfc9;}
-.border li:nth-child(5):hover {border-right: 10px solid #493224;}
-</style>
-  
+		
 ---
 
 <h2>Обо мне:</h2>
