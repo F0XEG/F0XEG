@@ -21,6 +21,11 @@
 <p> Notepad ++</p>
 <p> Sublime Text</p>
 <p> Docker</p>
+<p> Astra Linux</p>
+<p> Ubuntu</p>
+<p> Hyper-V</p>
+<p> Virtual-Box</p>
+<p> Mac OS</p>
 ---
 
 <h2>Обо мне:</h2>
