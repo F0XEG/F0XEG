@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	  <meta charset="utf-8">
+	  <title>Красивый список</title>
+	  <link href='http://fonts.googleapis.com/css?family=Exo+2:400,100&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
 <H1>Привет, меня зовут Никита!</H1>
 <p>👤Мне 21 год</p>
 <h2 align= "left">📚Языки и инструменты:</h2>
@@ -78,8 +87,11 @@ transition: 0.3s all linear;
 - Обучаюсь в ВУЗе на факультете 'Информационные системы и технологии'
 
 ---
-
-<!---
-F0XEG/F0XEG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->                    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	  <meta charset="utf-8">
+	  <title>Красивый список</title>
+	  <link href='http://fonts.googleapis.com/css?family=Exo+2:400,100&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+</html>
