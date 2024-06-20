@@ -26,6 +26,7 @@
 <p> Hyper-V</p>
 <p> Virtual-Box</p>
 <p> Mac OS</p>
+<p> JavaScript</p>
 ---
 
 <h2>Обо мне:</h2>
