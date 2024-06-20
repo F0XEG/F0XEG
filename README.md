@@ -34,7 +34,7 @@
 | Web-design    | Dev-Ops            | compilers   |
 | ------------- |:------------------:| -----------:|
 | Блендер       | Kibana	     |visualstudio |
-| Html/сcss     | kubernetes	     |Notepad ++   |
+| Html/сcss/js  | kubernetes	     |Notepad ++   |
 | Figma		| OpenShift          |Sublime	   |
 		
 ---
