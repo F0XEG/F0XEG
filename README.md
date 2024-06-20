@@ -31,11 +31,11 @@
   <li>Jira service management</li>
 </ul>
 
-| Web-design    | Dev-Ops            | Круто |
-| ------------- |:------------------:| -----:|
-| Блендер       | выровнен вправо    | $1600 |
-| Html/сcss     | выровнен по центру |   $12 |
-| Figma		| прикольные         |    $1 |
+| Web-design    | Dev-Ops            | compilers   |
+| ------------- |:------------------:| -----------:|
+| Блендер       | Kibana	     |visualstudio |
+| Html/сcss     | kubernetes	     |Notepad ++   |
+| Figma		| OpenShift          |Sublime	   |
 		
 ---
 
