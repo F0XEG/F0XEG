@@ -2,39 +2,34 @@
 <p>👤Мне 21 год</p>
 <h2 align= "left">📚Языки и инструменты:</h2>
 <ul class="border">
-  <li>Элемент списка</li>
-  <li>Элемент списка</li>
-  <li>Элемент списка</li>
-  <li>Элемент списка</li>
-  <li>Элемент списка</li>
+  <li>Блендер</li>
+  <li>Figma</li>
+  <li>css</li>
+  <li>Html</li>
+  <li>Grafana</li>
+  <li>Kibana</li>
+  <li>kubernetes</li>
+  <li>OpenShift</li>
+  <li>Linux</li>
+  <li>Windows</li>
+  <li>Oracle</li>
+  <li>PostgreSQL</li>
+  <li>Python</li>
+  <li>TeamCity</li>
+  <li>visualstudio</li>
+  <li>Atlassian Confluence</li>
+  <li>Service managemen</li>
+  <li>Notepad ++</li>
+  <li>Sublime Text</li>
+  <li>Docker</li>
+  <li>Astra Linux</li>
+  <li>Ubuntu</li>
+  <li>Hyper-V</li>
+  <li>Virtual-Box</li>
+  <li>Mac OS</li>
+  <li>JavaScript</li>
+  <li>Jira service management</li>
 </ul>
-<p> Блендер</p>
-<p> Figma</p>
-<p> css</p>
-<p> Html</p>
-<p> Grafana</p>
-<p> Kibana</p>
-<p> kubernetes</p>
-<p> Open Shift</p>
-<p> Linux</p>
-<p> Windows</p>
-<p> Oracle</p>
-<p> PostgreSQL</p>
-<p> Python</p>
-<p> TeamCity</p>
-<p> visualstudio</p>
-<p> Confluence</p>
-<p> Service management</p>
-<p> Notepad ++</p>
-<p> Sublime Text</p>
-<p> Docker</p>
-<p> Astra Linux</p>
-<p> Ubuntu</p>
-<p> Hyper-V</p>
-<p> Virtual-Box</p>
-<p> Mac OS</p>
-<p> JavaScript</p>
-<p> Jira service management</p>
 
 ---
 
