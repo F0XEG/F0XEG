@@ -2,7 +2,7 @@
 <p>👤Мне 21 год</p>
 <h2 align= "left">📚Языки и инструменты:</h2>
 <p> Блендер</p>
-<p> <algin text=left> Figma</p>
+<p> Figma</p>
 <p> css</p>
 <p> Html</p>
 <p> Grafana</p>
