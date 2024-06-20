@@ -18,7 +18,8 @@
 <p> visualstudio</p>
 <p> Confluence</p>
 <p> Service management</p>
-
+<p> Notepad ++</p>
+<p> Sublime Text</p>
 ---
 
 <h2>Обо мне:</h2>
