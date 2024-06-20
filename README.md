@@ -20,6 +20,7 @@
 <p> Service management</p>
 <p> Notepad ++</p>
 <p> Sublime Text</p>
+<p> Docker</p>
 ---
 
 <h2>Обо мне:</h2>
