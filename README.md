@@ -27,6 +27,7 @@
 <p> Virtual-Box</p>
 <p> Mac OS</p>
 <p> JavaScript</p>
+<p> Jira service management</p>
 
 ---
 
