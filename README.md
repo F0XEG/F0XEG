@@ -7,7 +7,8 @@
 	  <link href='http://fonts.googleapis.com/css?family=Exo+2:400,100&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
-		 <style type="text/css">
+		
+<style type="text/css">
 
       /* ---------- style start ----------- */
 
@@ -86,8 +87,10 @@
       }
 
       /* ---------- style end ----------- */
+	
+</style>
 
-    </style>
+
 <H1>Привет, меня зовут Никита!</H1>
 <p>👤Мне 21 год</p>
 <h2 align= "left">📚Языки и инструменты:</h2>
