@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body> 
-	
+<div class="header">	
 <H1>Привет, меня зовут Никита!</H1>
 <p>👤Мне 21 год</p>
 	
@@ -48,10 +48,9 @@
 
 ---
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
 </div>
+<div class="content">
 
+</div>
 </body>
 </html>
