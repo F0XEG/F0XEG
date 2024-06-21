@@ -41,4 +41,4 @@
 
 markdown
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?F0XEG
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=F0XEG)](https://git.io/streak-F0XEG)
