@@ -38,7 +38,3 @@
 > чуть позже я добавлю списки сертификатов по системам которые я освоил...
 
 ---
-
-markdown
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=F0XEG)](https://git.io/streak-F0XEG)
