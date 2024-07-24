@@ -36,7 +36,7 @@
 | Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 | lean		         | 
 | 		| TeamCity           | 		   | 		| 	    | 		 | Restful		 | cascade model	 |
 | 		| Grafana            | 		   | 		| 	    | 		 | CI/CD		 |||
-| 		| Apache Kafka       | 		   | 		| 	    | 		 | 			 |||
+| 		| Apache Kafka       | 		   | 		| 	    | 		 | nexus			 |||
 
 ---
 
