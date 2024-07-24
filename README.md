@@ -28,15 +28,15 @@
 
 </h2>📚Языки и инструменты:</h2>
 
-| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         | development methodology|
+| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | protocols	 | Other	         | development methodology|
 | ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|----------------------:|
-| Блендер       | ELK/EFK	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | agile		 |
-| Html	        | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     | scrum	 	 |
-| Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen| kanban	 	 |
-| Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 | lean		         | 
-| сss		| TeamCity           | 		   | 		| 	    | 		 | Restful		 | cascade model	 |
-| js		| Bash               | 		   | 		| 	    | 		 | CI/CD		 |||
-| php		| Apache Kafka       | 		   | 		| 	    | 		 | nexus			 |||
+| Блендер       | ELK/EFK	     | visualstudio| Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 |
+| Html	        | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| TCP/IP     |Service managemen      | scrum	 	 |
+| Figma		| OpenShift          | Sublime	   | 		| 	    | RDP	 | jira service managemen| kanban	 	 |
+| Python	| Docker             | 		   | 		| 	    | URL	 | gRPC			 | lean		         | 
+| сss		| TeamCity           | 		   | 		| 	    | DNS	 | Restful		 | cascade model	 |
+| js		| Bash               | 		   | 		| 	    | FTP	 | CI/CD		 |||
+| php		| Apache Kafka       | 		   | 		| 	    | SSL/TLS	 | nexus		 |||
 
 ---
 
