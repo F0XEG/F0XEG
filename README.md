@@ -29,15 +29,15 @@
 </h2>📚Языки и инструменты:</h2>
 
 | 		|         	     |compilers and 	 |	      |		  |	       |		       |   			|
-|		| Dev-Ops 	     |markup languages   | OS Linux   | Database  | protocols  | Other	       	       | development methodology|
+| technologies	| Dev-Ops 	     |markup languages   | OS Linux   | Database  | protocols  | Other	       	       | development methodology|
 | ------------- |:------------------:| :----------------:|:----------:|:---------:|:----------:|----------------------:|-----------------------:|
-| 	        | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 	|
-| 	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/IP     |Service managemen      | scrum	 	 	|
-| 		| OpenShift          | Sublime	   	 | 	      | 	  | RDP	       | jira service managemen| kanban	 	 	|
-| 		| Docker             | Figma	  	 | 	      | 	  | URL	       | gRPC		       | lean		        | 
-| 		| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Restful	       | cascade model	 	|
-| 		| Bash               | php	   	 | 	      | 	  | FTP	       | CI/CD		       |			|
-| 		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | nexus		       |			|
+| nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 	|
+| CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/IP     | Service managemen     | scrum	 	 	|
+| Restful	| OpenShift          | Sublime	   	 | 	      | 	  | RDP	       | jira service managemen| kanban	 	 	|
+| gRPC		| Docker             | Figma	  	 | 	      | 	  | URL	       | Сфера		       | lean		        | 
+| ITSM		| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Базис		       | cascade model	 	|
+| 		| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
+| 		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
 
 ---
 
