@@ -28,14 +28,14 @@
 
 </h2>📚Языки и инструменты:</h2>
 
-| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         |
-| ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|
-| Блендер       | Kibana	     | visualstudio| Linux      | Oracle    | Hyper-V	 | Atlassian Confluence  |
-| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     |
-| Figma		| OpenShift          | Sublime	   | Ubuntu	| 	    | 		 | jira service managemen|
-| Python	| Docker             | 		   | 		| 	    | 		 | 			 |
-| 		| TeamCity           | 		   | 		| 	    | 		 | 			 |
-| 		| Grafana            | 		   | 		| 	    | 		 | 			 |
+| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         | brokerage messages |
+| ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|-------------------:|
+| Блендер       | Kibana	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | Apache Kafka       |
+| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     ||
+| Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen||
+| Python	| Docker             | 		   | 		| 	    | 		 | 			 ||
+| 		| TeamCity           | 		   | 		| 	    | 		 | 			 ||
+| 		| Grafana            | 		   | 		| 	    | 		 | 			 ||
 
 ---
 
