@@ -28,14 +28,14 @@
 
 </h2>📚Языки и инструменты:</h2>
 
-| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         | brokerage messages |
-| ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|-------------------:|
-| Блендер       | Kibana	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | Apache Kafka       |
-| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     ||
-| Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen||
-| Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 ||
-| 		| TeamCity           | 		   | 		| 	    | 		 | Restful		 ||
-| 		| Grafana            | 		   | 		| 	    | 		 | CI/CD		 ||
+| Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         | brokerage messages |development methodology|
+| ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|-------------------:|----------------------:|
+| Блендер       | Kibana	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | Apache Kafka       | agile		      |
+| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     |		      | scrum	 	      |
+| Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen|		      | kanban	 	      |
+| Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 |		      | lean		      | 
+| 		| TeamCity           | 		   | 		| 	    | 		 | Restful		 |		      | cascade model	      |
+| 		| Grafana            | 		   | 		| 	    | 		 | CI/CD		 |||
 
 ---
 
