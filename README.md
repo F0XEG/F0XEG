@@ -31,12 +31,12 @@
 | Web-design    | Dev-Ops            | compilers   | OS Linux   | Database  | Virtual	 | Other	         | development methodology|
 | ------------- |:------------------:| :----------:|:----------:|:---------:|:----------:|----------------------:|----------------------:|
 | Блендер       | ELK/EFK	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | agile		 |
-| Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     | scrum	 	 |
+| Html	        | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     | scrum	 	 |
 | Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen| kanban	 	 |
 | Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 | lean		         | 
-| 		| TeamCity           | 		   | 		| 	    | 		 | Restful		 | cascade model	 |
-| 		| Bash               | 		   | 		| 	    | 		 | CI/CD		 |||
-| 		| Apache Kafka       | 		   | 		| 	    | 		 | nexus			 |||
+| сss		| TeamCity           | 		   | 		| 	    | 		 | Restful		 | cascade model	 |
+| js		| Bash               | 		   | 		| 	    | 		 | CI/CD		 |||
+| php		| Apache Kafka       | 		   | 		| 	    | 		 | nexus			 |||
 
 ---
 
