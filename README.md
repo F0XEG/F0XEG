@@ -29,12 +29,12 @@
 </h2>📚Языки и инструменты:</h2>
 
 | 		|         	     |compilers and 	 |	      |		  |	       |		       |   			|
-| technologies	| Dev-Ops 	     |markup languages   | OS Linux   | Database  | protocols  | Other	       	       | development methodology|
+| technologies	| Dev-Ops 	     |markup languages   | OS 	      | Database  | protocols  | Other	       	       | development methodology|
 | ------------- |:------------------:| :----------------:|:----------:|:---------:|:----------:|----------------------:|-----------------------:|
 | nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 	|
 | CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/IP     | Service managemen     | scrum	 	 	|
-| Restful	| OpenShift          | Sublime	   	 | 	      | 	  | RDP	       | jira service managemen| kanban	 	 	|
-| gRPC		| Docker             | Figma	  	 | 	      | 	  | URL	       | Сфера		       | lean		        | 
+| Restful	| OpenShift          | Sublime	   	 | MacOS      | 	  | RDP	       | jira service managemen| kanban	 	 	|
+| gRPC		| Docker             | Figma	  	 | Windows    | 	  | URL	       | Сфера		       | lean		        | 
 | ITSM		| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Базис		       | cascade model	 	|
 | 		| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
 | 		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
