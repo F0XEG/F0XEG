@@ -33,9 +33,9 @@
 | Блендер       | Kibana	     | visualstudio| Ubuntu     | Oracle    | Hyper-V	 | Atlassian Confluence  | Apache Kafka       |
 | Html/сcss/js  | kubernetes	     | Notepad ++  | Astra Linux| PostgreSQL| Virtual-Box| Service managemen     ||
 | Figma		| OpenShift          | Sublime	   | 		| 	    | 		 | jira service managemen||
-| Python	| Docker             | 		   | 		| 	    | 		 | 			 ||
-| 		| TeamCity           | 		   | 		| 	    | 		 | 			 ||
-| 		| Grafana            | 		   | 		| 	    | 		 | 			 ||
+| Python	| Docker             | 		   | 		| 	    | 		 | gRPC			 ||
+| 		| TeamCity           | 		   | 		| 	    | 		 | Restful		 ||
+| 		| Grafana            | 		   | 		| 	    | 		 | CI/CD		 ||
 
 ---
 
