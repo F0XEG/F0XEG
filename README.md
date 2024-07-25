@@ -35,7 +35,7 @@
 | CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/IP     | Service managemen     | scrum	 	 	|
 | Restful	| OpenShift          | Sublime	   	 | MacOS      | 	  | RDP	       | jira service managemen| kanban	 	 	|
 | gRPC		| Docker             | Figma	  	 | Windows    | 	  | URL	       | Сфера		       | lean		        | 
-| ITSM		| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Базис		       | cascade model	 	|
+| ITSM/ITIL	| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Базис		       | cascade model	 	|
 | 		| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
 | 		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
 
