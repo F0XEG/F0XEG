@@ -32,12 +32,12 @@
 | technologies	| Dev-Ops 	     |markup languages   | OS 	      | Database  | protocols  | Other	       	       | development methodology|
 | ------------- |:------------------:| :----------------:|:----------:|:---------:|:----------:|----------------------:|-----------------------:|
 | nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 	|
-| CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/IP     | Service managemen     | scrum	 	 	|
-| Restful	| OpenShift          | Sublime	   	 | MacOS      | 	  | RDP	       | jira service managemen| kanban	 	 	|
-| gRPC		| Docker             | Figma	  	 | Windows    | 	  | URL	       | Сфера		       | lean		        | 
-| ITSM/ITIL	| TeamCity           | Html/сss/js	 | 	      | 	  | DNS	       | Базис		       | cascade model	 	|
-| 		| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
-| 		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
+| CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/UDP    | Service managemen     | scrum	 	 	|
+| Restful	| OpenShift          | Sublime	   	 | MacOS      | 	  | RDP/VPN    | jira service managemen| kanban	 	 	|
+| gRPC		| Docker             | Figma	  	 | Windows    | 	  | URL/DNS    | Сфера		       | lean		        | 
+| ITSM/ITIL	| TeamCity           | Html/сss/js	 | 	      | 	  | MTLS       | Базис		       | cascade model	 	|
+| TCP/IP	| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
+| OSI		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
 
 ---
 
