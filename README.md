@@ -7,7 +7,7 @@
 <body> 
 <div class="header">	
 <H1>Привет, меня зовут Никита!</H1>
-<p>👤Мне 21 год</p>
+<p>👤Мне 22 год</p>
 	
 ---
 
@@ -31,12 +31,12 @@
 | 		|         	     |compilers and 	 |	      |		  |	       |		       |   			|
 | technologies	| Dev-Ops 	     |markup languages   | OS 	      | Database  | protocols  | Other	       	       | development methodology|
 | ------------- |:------------------:| :----------------:|:----------:|:---------:|:----------:|----------------------:|-----------------------:|
-| nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | Atlassian Confluence  | agile		 	|
-| CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/UDP    | Service managemen     | scrum	 	 	|
-| Restful	| OpenShift          | Sublime	   	 | MacOS      | 	  | RDP/VPN    | jira service managemen| kanban	 	 	|
-| gRPC		| Docker             | Figma	  	 | Windows    | 	  | URL/DNS    | Сфера		       | lean		        | 
-| ITSM/ITIL	| TeamCity           | Html/сss/js	 | 	      | 	  | MTLS       | Базис		       | cascade model	 	|
-| TCP/IP	| Bash               | php	   	 | 	      | 	  | FTP	       | Citrix		       |			|
+| nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | HTML		       | agile		 	|
+| CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/UDP    | CSS		       | scrum	 	 	|
+| Restful	| OpenShift          | Sublime	   	 | MacOS      | dbeaver   | RDP/VPN    | js		       | kanban	 	 	|
+| gRPC		| Docker             | Figma	  	 | Windows    | pgAdmin	  | URL/DNS    | Virtual Box	       | lean		        | 
+| CLI		| TeamCity           | Git		 | Debain     | 	  | MTLS       | Hyper V	       | cascade model	 	|
+| TCP/IP	| Bash               | golang	   	 | 	      | 	  | FTP	       | Citrix		       |			|
 | OSI		| Apache Kafka       | Python		 | 	      | 	  | SSL/TLS    | 		       |			|
 
 ---
