@@ -28,8 +28,8 @@
 
 </h2>📚Языки и инструменты:</h2>
 
-| 		|         	     |compilers and 	 |	      |		  |	       |		       |   			|
-| technologies	| Dev-Ops 	     |markup languages   | OS 	      | Database  | protocols  | Other	       	       | development methodology|
+
+| technologies	| Dev-Ops 	     |compilers     | OS 	      | Database  | protocols  | Other	       	       | development methodology|
 | ------------- |:------------------:| :----------------:|:----------:|:---------:|:----------:|----------------------:|-----------------------:|
 | nexus         | ELK/EFK	     | visualstudio	 | Ubuntu     | Oracle    | Http/https | HTML		       | agile		 	|
 | CI/CD	        | kubernetes	     | Notepad ++  	 | Astra Linux| PostgreSQL| TCP/UDP    | CSS		       | scrum	 	 	|
