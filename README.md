@@ -69,69 +69,28 @@
 
 ###
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-        <br>K8s
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="65" height="65" />
-        <br>Terraform
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
-        <br>Golang
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gitlab-icon.svg" alt="GitLab" width="65" height="65" />
-        <br>GitLab
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-        <br>Nginx
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
-        <br>Redis
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
 <h3 align="left">🎮 Опыт работы</h3>
 
 ###
 
 <div align="left">
-  <h4>🎯 <b>ВТБ</b> - Специалист мониторинга MSA</h4>
-  <p><code>2023 - настоящее время</code></p>
+  <h4>🎯 <b>WB-tech</b> - DevOps-Engineer </h4>
+  <p><code>2025 - настоящее время</code></p>
   <ul>
-    <li>🔍 Мониторинг MSA-платформ и распределенных систем</li>
+    <li>🔍 Мониторинг инфраструктуры и сервисов</li>
     <li>📊 Настройка Prometheus, Grafana, Alertmanager</li>
     <li>🚨 Анализ и локализация инцидентов</li>
     <li>🤖 Автоматизация рутинных задач</li>
+  </ul>
+
+   
+  <h4>🎯 <b>ВТБ</b> - Специалист мониторинга MSA</h4>
+  <p><code>2024 - 2025</code></p>
+  <ul>
+    <li>🔍 Мониторинг MSA-платформ и распределенных систем</li>
+    <li>📘Проведения работ по деплою на тестовые контура</li>
+    <li>💊 Анализ и локализация инцидентов</li>
+    <li>📟 Ведение постмортемов</li>
   </ul>
 
   <h4>💳 <b>Сбербанк</b> - Старший инженер сопровождения АС</h4>
@@ -151,19 +110,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foxeggg&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Foxeggg&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolayman.vercel.app?user=Foxeggg&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foxeggg&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" height="300" alt="activity graph" />
 </div>
 
@@ -177,20 +123,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Foxeggg&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
 </div>
 
-###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Foxeggg/Foxeggg/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&cover_image=true&theme=default" alt="Spotify" />
-</div>
