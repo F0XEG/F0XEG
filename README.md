@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,gitlab,github,python,go,bash,linux,ubuntu,aws,gcp,azure,jenkins,ansible,prometheus,grafana,postgres,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,github,python,go,bash,linux,ubuntu,prometheus,grafana,ArgoCD,nginx,NATS" />
 </div>
 
 ###
