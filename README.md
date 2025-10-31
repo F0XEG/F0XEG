@@ -61,10 +61,55 @@
 
 <h3 align="left">⚡ Технологический стек</h3>
 
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,gitlab,github,python,go,bash,linux,ubuntu,prometheus,grafana,ArgoCD,nginx,NATS" />
+
+#### **Infrastructure & Orchestration**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+#### **CI/CD & Version Control**
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+
+#### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-000000?style=for-the-badge)
+![Zabbix](https://img.shields.io/badge/Zabbix-00AFF0?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK/EFK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+#### **Security & Access Management**
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000)
+![Keycloak](https://img.shields.io/badge/Keycloak-ED8B00?style=for-the-badge&logo=keycloak&logoColor=white)
+![Teleport](https://img.shields.io/badge/Teleport-000000?style=for-the-badge)
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge)
+
+#### **Message Brokers & Databases**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-199C97?style=for-the-badge&logo=nats&logoColor=white)
+
+#### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **Operating Systems & Networking**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### **Process Automation & Tools**
+![Camunda](https://img.shields.io/badge/Camunda-0072CE?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge)
+
 </div>
 
 ###
