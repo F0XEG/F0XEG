@@ -166,13 +166,3 @@
 </div>
 
 ###
-
-<h3 align="left">🎯 Достижения</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Foxeggg&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophy" />
-</div>
-
-
