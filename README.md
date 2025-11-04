@@ -105,6 +105,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+#### **Networking**
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-009933?style=for-the-badge&logo=osi&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6600?style=for-the-badge&logo=dnssimple&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-008000?style=for-the-badge&logo=internetexplorer&logoColor=white)
+
 #### **Process Automation & Tools**
 ![Camunda](https://img.shields.io/badge/Camunda-0072CE?style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -116,6 +123,12 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### **Markup Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 </div>
 
