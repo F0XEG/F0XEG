@@ -65,6 +65,7 @@
 
 #### **Infrastructure & Orchestration**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Lens](https://img.shields.io/badge/Lens-3D7FFF?style=for-the-badge&logo=kubectl&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -77,6 +78,7 @@
 
 #### **Monitoring & Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-00A8FF?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-000000?style=for-the-badge)
 ![Zabbix](https://img.shields.io/badge/Zabbix-00AFF0?style=for-the-badge)
