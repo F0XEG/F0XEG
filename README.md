@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Kubernetes+Specialist;Monitoring+Expert;SRE+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=4000&color=BF00FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Kubernetes+Specialist;Monitoring+Expert;SRE+Enthusiast" alt="Typing Animation" />
 </div>
 
 ###
